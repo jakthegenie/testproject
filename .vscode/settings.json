@@ -1,0 +1,8 @@
+{
+  "emmet.includeLanguages": {
+    "javascript": "javascriptreact"
+  },
+  "typescript.preferences.quoteStyle": "single",
+  "typescript.disableAutomaticTypeAcquisition": true,
+  "prettier.singleQuote": true
+}
